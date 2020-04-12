@@ -21,7 +21,7 @@ navigation:
   url: /#home
 - text: El alojamiento
   url: /#about
-- text: Services
+- text: Servicios
   url: /#services
 - text: Estancias
   url: /#portfolio
