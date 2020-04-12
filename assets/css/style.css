@@ -1572,12 +1572,10 @@ figure {
 	text-align: center;
 }
 
-#contact{
+#contact:before{
 	background-image: url(../images/background_contact.jpg);
   	background-repeat: no-repeat;
   	background-size: cover;
-}
-#contact-image{
   	filter: blur(8px);
     -webkit-filter: blur(8px);
 }
