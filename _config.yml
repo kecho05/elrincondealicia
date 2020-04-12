@@ -17,17 +17,17 @@ baseurl:
 # baseurl: https://beingeorge.com/lancer-jekyll
 
 navigation:
-- text: Home
+- text: Inicio
   url: /#home
-- text: about
+- text: El alojamiento
   url: /#about
-- text: services
+- text: Services
   url: /#services
-- text: Works
+- text: Estancias
   url: /#portfolio
 - text: Blog
   url: /#blog
-- text: Contact
+- text: Contacto
   url: /#contact
   text: Reservas
   url: https://www.booking.com/hotel/es/el-rincon-de-alicia.es.html
@@ -42,7 +42,7 @@ url: "https://beingeorge.com"
 disqus:
 
 # Author information - author info at the bottom of the post
-author_name: "ELLEN DOE"
+author_name: "Kecho"
 
 # Social links in the site footer
 twitter_username: "username"
