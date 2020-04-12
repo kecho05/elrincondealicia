@@ -29,6 +29,8 @@ navigation:
   url: /#blog
 - text: Contact
   url: /#contact
+  text: Reservas
+  url: https://www.booking.com/hotel/es/el-rincon-de-alicia.es.html
 
 sass:
   sass_dir: _sass
